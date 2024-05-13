@@ -1,0 +1,7 @@
+{
+    "total_requests": 100,
+    "average_response_time": 0.003750882148742676,
+    "status_codes": {
+        "200": 100
+    }
+}
